@@ -33,6 +33,22 @@ A cybersecurity-themed personal portfolio website designed with a retro terminal
 
 To modify the content, edit `scripts/terminal.js`. The `handleCommand` function contains all the text output for the commands.
 
+
+## 🚀 Deployment
+
+### Option 1: Vercel (Recommended)
+
+1.  Push your code to GitHub.
+2.  Go to [Vercel](https://vercel.com) and sign in.
+3.  Click **"Add New..."** -> **"Project"**.
+4.  Import your GitHub repository.
+5.  Vercel will automatically detect the settings. Click **Deploy**.
+
+### Option 2: Manual Vercel CLI
+
+1.  Install Vercel CLI: `npm method i -g vercel`
+2.  Run `vercel` in the project root.
+
 ## 📜 License
 
 MIT License.
